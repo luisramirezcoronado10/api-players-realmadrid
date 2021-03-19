@@ -1,12 +1,8 @@
 {
-"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
-  }
-}}
+  "jugadores":[
+    {"nombre": "Luis"},
+    {"nombre": "Luis 2"},
+    {"nombre": "Luis 3"},
+    {"nombre": "Luis 4"}
+  ]
+}
