@@ -1,8 +1,10 @@
 {
   "jugadores":[
-    {"nombre": "Luis"},
-    {"nombre": "Luis 2"},
-    {"nombre": "Luis 3"},
-    {"nombre": "Luis 4"}
+    {
+      "foto": 'https://www.realmadrid.com/img/vertical_380px/ramos_380x501_20201203095830.jpg',
+      "numero": '4',
+      "nombre": "Luis",
+      "posicion": 'Defensa',
+    }
   ]
 }
